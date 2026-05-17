@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TouchTracker</string>
+    <string name="touch_prompt">Докоснете екрана, за да видите координатите</string>
+</resources>
